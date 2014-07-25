@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.jmdns_3.4.1-patch2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/connectsdklib/libs/javax.jmdns_3.4.1-patch2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
